@@ -13,6 +13,7 @@
 ![Total Summary](https://github.com/pbandi2020/MechaCar_Statistical_Analysis/blob/main/TotalSummary.png)
 
 ![Lot Summary](https://github.com/pbandi2020/MechaCar_Statistical_Analysis/blob/main/LotSummary.png)
+
 ##T-Test on Sustension Coils
 By using a significance level, 95% of the time this tests results would be true, I tested to see if any of the three groups had a statistical difference from the mean of 1,500 PSI. After running the tests, all three p-values where much greater than .05 meaning that I would fail to reject that there is a statistical difference between the three groups and the population mean.
 
