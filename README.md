@@ -20,3 +20,10 @@ By using a significance level, 95% of the time this tests results would be true,
 ![Lot 1 Ttest](https://github.com/pbandi2020/MechaCar_Statistical_Analysis/blob/main/lot1_ttest.png)
 ![Lot 2 Ttest](https://github.com/pbandi2020/MechaCar_Statistical_Analysis/blob/main/lot2_ttest.png)
 ![Lot 3 Test](https://github.com/pbandi2020/MechaCar_Statistical_Analysis/blob/main/lot3_ttest.png)
+
+## Summary MechaCar vs Competition
+1.  The metrics I want to test are city and highway fuel efficiencies.
+2.  Hypothesis - **Null Hypothesis** (all of the cars in the same class have the same fuel efficienies) where as my **Alternative Hypothesis** is (they are not all the same).
+3.  I would use an ANOVA test to complete this analysis for both types of fuel efficiencies. Also I would use the ggplot2 library to show the potential spread between different cars using a boxplot.
+4.  Having additional fuel efficiency data on individual cars to create a sample size of data for each car in the class type. For example, if there was 10 cars in the class type, I would have a top of 500 data points collected for each fuel efficiency type.
+
